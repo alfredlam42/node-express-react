@@ -33,7 +33,7 @@ webpack.config.js
 ```
 
 Copy and paste the following into the file. Update the entry and output of this object.
-```JSON
+```javascript
 module.exports = {
   entry: '<filename>',
   output: {
